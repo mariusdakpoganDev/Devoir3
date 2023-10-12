@@ -1,0 +1,2 @@
+﻿  Devoir3.cpp
+C:\Users\Moule\OneDrive - USherbrooke\UdeS\StructureDonnes\Devoir3\Devoir3\listImpl.h(28): error C4716: 'list<int>::erase': must return a value
